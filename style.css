@@ -1,0 +1,46 @@
+header {
+  background-color: #666;
+  padding: 10px;
+  text-align: left;
+  font-size: 25px;
+  color: white;
+  font-family: calibri;
+}
+body {
+  background-color: honeydew;
+}
+h1 {
+  color: darkslategray;
+  text-align: center;
+  font-size: 60px;
+  font-family: tnr;
+}
+
+h3 {
+  color: darkslategray;
+  text-align: center;
+}
+p {
+  font-family: calibri;
+  color: blueviolet;
+  border: 2px solid black;
+  outline: 5px solid steelblue;
+  padding: 15px;
+  margin-right: 400px;
+  margin-left: 20px;
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  font-family: calibri;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
